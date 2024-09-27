@@ -1,0 +1,5 @@
+django-elasticsearch-dsl==8.0
+django-elasticsearch-dsl-drf==0.22.5
+elastic-transport==8.15.0
+elasticsearch==8.15.0
+elasticsearch-dsl==8.15.2
